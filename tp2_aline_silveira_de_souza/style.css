@@ -1,0 +1,53 @@
+a {
+    text-decoration: none;
+    color: #411501;
+}
+
+
+h2 {
+    font-size: 4.2em;
+    font-family: 'Outfit', sans-serif;
+    color: #A0522D;
+    text-align: center;
+    padding: 30px 30px;
+}
+h1{
+    font-size: 1.5em;
+    font-family: 'Outfit', sans-serif;
+    color: #3b1300;
+}
+
+body {
+    font-size: 0.875em;
+    color: #3b1300;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    background-color: #FFE4B5;
+}
+li{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+nav{
+    text-align: center;
+    background-color: #A0522D;
+    margin-top: 10px;
+}
+
+#container{
+    width: 960px;
+    margin: 0 auto;
+}
+
+header img{
+    width: 120px;
+    margin: 0 auto;
+    display:block;
+}
+.imagemCafe img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
