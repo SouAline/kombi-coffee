@@ -120,3 +120,31 @@ td{
 .naoAparece{
     visibility: hidden;
 }
+
+#nome, #email, #mensagem{
+    margin-left: 90px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+
+#form{
+    background-color:#A0522D;
+    border: #3b1300 7px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+label{
+    margin-top: 5px;
+}
+.botao{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.kombiImage{
+    width: 560px;
+    height: 360px;
+}
