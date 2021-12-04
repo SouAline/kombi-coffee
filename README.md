@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/80184523/138786707-7e3132be-17ba-4d57-9731-47abb17b269c.png">
     
  # Bem vindo ao Kombi Coffee  
- 🚧  Projeto em construção  
- <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">  Em HTML
+ 🚧  Projeto em construção criado para entrega de trabalhjo na faculdade de Analise e Desenvolvimento de Sistemas   
+ <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">  Em HTML5 <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"> Em CSS3
  - Estilização da página criada através do arquivo style.css 
  - Hierarquia de títulos respeitando a semântica   
  - Codigo passou no teste do <a href="https://validator.w3.org/nu/#file">validador</a> conforme imagem abaixo:
